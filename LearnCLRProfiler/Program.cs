@@ -9,6 +9,7 @@ namespace LearnCLRProfiler
     {
         static void Main(string[] args)
         {
+            Console.Read();
         }
     }
 }
