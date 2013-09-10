@@ -4,3 +4,5 @@ http://msdn.microsoft.com/zh-cn/library/ms979205
 #csc bat
 csc /t:exe /out:ProfilerSample1.exe ProfilerSample1.cs
 csc /t:exe /out:ProfilerSample2.exe ProfilerSample2.cs
+
+csc /t:exe /out:ProfilerSample1.exe ProfilerSample1-1.cs
